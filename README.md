@@ -1,7 +1,7 @@
 # AI Market Risk Analyser 📈🤖
 
 ## Live Application
-https://pricingengine-ck2yv7wpokb8wdmr4owzhd.streamlit.app/
+https://marketanalysis-nlgn3acxeqslyilraaytjr.streamlit.app/
 
 ## Project Overview
 AI Market Risk Analyser is an end-to-end AI-powered financial analytics system that combines traditional options pricing models with machine learning–based forecasting. The application provides option pricing, Greeks computation, AI-driven option price prediction, and volatility forecasting through an interactive Streamlit interface.
